@@ -1,0 +1,2 @@
+# konnichiwa
+another hello project
